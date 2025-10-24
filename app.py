@@ -75,7 +75,7 @@ except Exception as e:
 # -----------------------------
 # 헤더 및 소개 섹션
 # -----------------------------
-st.markdown("<h1 class='main-title'>📘 한글로 답변하는 위키 기반 AI</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='main-title'>📘 한글로 답변하는 영문 위키 기반 AI</h1>", unsafe_allow_html=True)
 st.markdown("<p class='sub-title'>Semantic Search + RAG 기반 | Powered by Elasticsearch & OpenAI</p>", unsafe_allow_html=True)
 st.divider()
 
